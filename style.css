@@ -46,6 +46,10 @@ body{
   border-radius: 2rem;
 }
 
+.source-links{
+  text-align: center;
+}
+
 hr{
   margin: 2rem 0;
 }
